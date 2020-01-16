@@ -11,4 +11,4 @@ spec:
     NodePort
   ports:
   - port: 6379
-    nodePort: 300013
+    nodePort: 30013
