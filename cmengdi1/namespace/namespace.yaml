@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cmengdi1
+  labels:
+    name: cmengdi1
