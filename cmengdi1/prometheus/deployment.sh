@@ -1,5 +1,5 @@
-kubectl create -f node-exporter.yaml -n cmengdi1
-kubectl create -f rbac-setup.yaml -n cmengdi1
-kubectl create -f configmap.yaml -n cmengdi1
-kubectl create -f promethues.yaml -n cmengdi1
-kubectl create -f grafana.yaml -n cmengdi1
+kubectl create -f node-exporter.yaml 
+kubectl create -f rbac-setup.yaml 
+kubectl create -f configmap.yaml 
+kubectl create -f promethues.yaml 
+kubectl create -f grafana.yaml 
